@@ -170,3 +170,10 @@ In the issue, please include the following:
 * Homebrew version `brew -v`
 * Java Version `java --version`
 * MacOS Version (Apple at top left --> About this Mac. The specific version is needed [eg. 10.13.6]).
+
+
+# TODO
+
+1. Add test 
+2. Push to brew proper
+
